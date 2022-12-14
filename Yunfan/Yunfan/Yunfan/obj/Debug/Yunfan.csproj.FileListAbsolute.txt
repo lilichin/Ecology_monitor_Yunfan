@@ -1,0 +1,14 @@
+C:\Users\lilic\Desktop\Yunfan\Yunfan\Yunfan\bin\Debug\Yunfan.exe.config
+C:\Users\lilic\Desktop\Yunfan\Yunfan\Yunfan\obj\Debug\Yunfan.csprojResolveAssemblyReference.cache
+C:\Users\lilic\Desktop\Yunfan\Yunfan\Yunfan\obj\Debug\Yunfan.Properties.Resources.resources
+C:\Users\lilic\Desktop\Yunfan\Yunfan\Yunfan\obj\Debug\Yunfan.csproj.GenerateResource.Cache
+C:\Users\lilic\Desktop\Yunfan\Yunfan\Yunfan\bin\Debug\Yunfan.exe
+C:\Users\lilic\Desktop\Yunfan\Yunfan\Yunfan\bin\Debug\Yunfan.pdb
+C:\Users\lilic\Desktop\Yunfan\Yunfan\Yunfan\bin\Debug\ESRI.ArcGIS.AxControls.dll
+C:\Users\lilic\Desktop\Yunfan\Yunfan\Yunfan\bin\Debug\ESRI.ArcGIS.Version.dll
+C:\Users\lilic\Desktop\Yunfan\Yunfan\Yunfan\obj\Debug\Yunfan.exe
+C:\Users\lilic\Desktop\Yunfan\Yunfan\Yunfan\obj\Debug\Yunfan.pdb
+C:\Users\lilic\Desktop\Yunfan\Yunfan\Yunfan\bin\Debug\byn\Yunfan.resources.dll
+C:\Users\lilic\Desktop\Yunfan\Yunfan\Yunfan\obj\Debug\Yunfan.Yunfan.resources
+C:\Users\lilic\Desktop\Yunfan\Yunfan\Yunfan\obj\Debug\Yunfan.Yunfan.byn.resources
+C:\Users\lilic\Desktop\Yunfan\Yunfan\Yunfan\obj\Debug\byn\Yunfan.resources.dll
